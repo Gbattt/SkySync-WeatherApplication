@@ -2,18 +2,28 @@
 “🌤️ A modern, responsive weather app built using HTML, CSS, JavaScript &amp; OpenWeatherMap API.”
 
 ✨ Features
-🎬 Cinematic welcome screen with smooth animation
-🔎 Search for any city to get instant weather updates
-🌡️ Real-time data: temperature, humidity, wind, UV
-🔊 Audio-enhanced UI for immersive interaction
-📱 Fully responsive – looks like a native mobile app
-🌐 Built entirely in a single HTML file
-🚀 Tech Stack
 
+🎬 Cinematic welcome screen with smooth animation
+
+🔎 Search for any city to get instant weather updates
+
+🌡️ Real-time data: temperature, humidity, wind, UV
+
+🔊 Audio-enhanced UI for immersive interaction
+
+📱 Fully responsive – looks like a native mobile app
+
+🌐 Built entirely in a single HTML file
+
+
+
+🚀 Tech Stack
 HTML5
 CSS3
 JavaScript
 OpenWeatherMap API
+
+
 🛠️ Setup Instructions
 No installation required.
 
