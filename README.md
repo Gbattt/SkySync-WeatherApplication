@@ -1,0 +1,2 @@
+# SkySync-WeatherApplication
+“🌤️ A modern, responsive weather app built using HTML, CSS, JavaScript &amp; OpenWeatherMap API.”
